@@ -22,7 +22,7 @@ def setup_vector_db():
     #retriever = vector_database.as_retriever(score_threshold=0.7)
     vector_database.save_local(vector_db_file)
 
-
+vector_database = FAISS.load_local(vector_db_file, instruct_embeddings)
 retriever = vector_database.as_retriever(score_threshold=0.7)
 
 prompt_template = """Given the following context and a question, generate an answer based on this context only.
