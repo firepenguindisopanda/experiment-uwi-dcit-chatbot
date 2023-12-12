@@ -13,7 +13,7 @@ an experimental implementation of chatbot for question and answers for uwi dcit 
 
 ### Backend (API) - Choose a Framework:
 
--Decide whether you want to use Flask or FastAPI. Both are excellent choices, but FastAPI is known for its speed and automatic API documentation.
+- Decide whether you want to use Flask or FastAPI. Both are excellent choices, but FastAPI is known for its speed and automatic API documentation.
 
 ### Create API Endpoints:
 
@@ -69,7 +69,7 @@ an experimental implementation of chatbot for question and answers for uwi dcit 
 
 ### Scaling:
 
-= Optimize and scale your application as needed, depending on the number of users and data.
+- Optimize and scale your application as needed, depending on the number of users and data.
 
 ### Continuous Integration/Continuous Deployment (CI/CD):
 
