@@ -5,7 +5,7 @@ an experimental implementation of chatbot for question and answers for uwi dcit 
 
 ## NEXT STEPS
 
-###Split the Code into Backend (API) and Frontend (Dashboard):
+### Split the Code into Backend (API) and Frontend (Dashboard):
 
 - Use Flask or FastAPI to create a backend API that exposes endpoints for interacting with the chatbot and managing data.
 
