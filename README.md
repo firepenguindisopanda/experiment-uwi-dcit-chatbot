@@ -3,11 +3,11 @@ an experimental implementation of chatbot for question and answers for uwi dcit 
 
 ----
 
-[Gcloud command to deploy to cloud run](./readme_assets/gcloud_command.png)
+![Gcloud command to deploy to cloud run](./readme_assets/gcloud_command.png)
 
 ----
 
-[Cloud run dashboard](./readme_assets/cloud_run_dashboard.png)
+![Cloud run dashboard](./readme_assets/cloud_run_dashboard.png)
 
 ----
 
