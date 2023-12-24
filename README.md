@@ -7,6 +7,10 @@ an experimental implementation of chatbot for question and answers for uwi dcit 
 
 ----
 
+[Cloud run dashboard](./readme_assets/cloud_run_dashboard.png)
+
+----
+
 ## NEXT STEPS
 
 ### Split the Code into Backend (API) and Frontend (Dashboard):
