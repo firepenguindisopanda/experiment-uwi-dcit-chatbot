@@ -3,6 +3,10 @@ an experimental implementation of chatbot for question and answers for uwi dcit 
 
 ----
 
+[Gcloud command to deploy to cloud run](./readme_assets/gcloud_command.png)
+
+----
+
 ## NEXT STEPS
 
 ### Split the Code into Backend (API) and Frontend (Dashboard):
