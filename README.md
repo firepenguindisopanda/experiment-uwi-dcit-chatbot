@@ -21,13 +21,13 @@ an experimental implementation of chatbot for question and answers for uwi dcit 
 
 ### Backend (API) - Choose a Framework:
 
-- Decide whether you want to use Flask or FastAPI. Both are excellent choices, but FastAPI is known for its speed and automatic API documentation.
+- Decide whether I want to use Flask or FastAPI. Both are excellent choices, but FastAPI is known for its speed and automatic API documentation.
 
 ### Create API Endpoints:
 
 - Define API endpoints for actions like querying the chatbot, updating the knowledge base, and retrieving recent events.
 
-- Implement these endpoints using the existing logic in your Streamlit app.
+- Implement these endpoints using the existing logic in the Streamlit app.
 
 ### ORM for Data Storage:
 
@@ -35,7 +35,7 @@ an experimental implementation of chatbot for question and answers for uwi dcit 
 
 ### Database Setup:
 
-- Set up a database (e.g., SQLite, PostgreSQL) to store data like user questions, chatbot responses, and additional information.
+- Set up a database (e.g., SQLite, PostgreSQL) to store data like user questions, chatbot responses, and additional information (metadata).
 
 ### Authentication and Authorization:
 
@@ -56,6 +56,7 @@ an experimental implementation of chatbot for question and answers for uwi dcit 
 
 - Design a user-friendly interface for both the data scientist's dashboard and the user interaction page.
 - Implement forms for adding new data to the knowledge base.
+- Or a workflow to add new or updated information from files (Example: csv, text, excel, etc...)
 
 ### Real-time Updates:
 
@@ -69,7 +70,7 @@ an experimental implementation of chatbot for question and answers for uwi dcit 
 
 ### Documentation:
 
-- Document your API endpoints, data models, and any other important information.
+- Document the API endpoints, data models, and any other important information.
 
 ### Testing:
 
@@ -77,7 +78,7 @@ an experimental implementation of chatbot for question and answers for uwi dcit 
 
 ### Scaling:
 
-- Optimize and scale your application as needed, depending on the number of users and data.
+- Optimize and scale the application as needed, depending on the number of users and data.
 
 ### Continuous Integration/Continuous Deployment (CI/CD):
 
